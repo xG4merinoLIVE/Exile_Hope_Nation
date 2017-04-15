@@ -47,3 +47,37 @@ class CookPlasticBottleDirtyWater: Exile_AbstractCraftingRecipe
 	};	
 	category = "Drinks";	
 };
+
+/****************************** LEERE FLASCHE MIT DRECKWASSER FÜLLEN *************************/
+class FillEmptyPlasticBottleWithDirtyWater: Exile_AbstractCraftingRecipe
+{
+	name = "Fill Dirty Water";
+	pictureItem = "Exile_Item_PlasticBottleDirtyWater";
+	requiredInteractionModelGroup = "WaterSource";
+	returnedItems[] =
+	{
+		{1, "Exile_Item_PlasticBottleDirtyWater"}
+	};
+	components[] = 
+	{
+		{1, "Exile_Item_PlasticBottleEmpty"}
+	};	
+	category = "Drinks";	
+};
+
+/***************************** LEERE FLASCHE MIT FRISCHWASSER FÜLLEN *************************/
+class FillEmptyPlasticBottleWithFreshWater: Exile_AbstractCraftingRecipe
+{
+	name = "Fill Fresh Water";
+	pictureItem = "Exile_Item_PlasticBottleFreshWater";
+	requiredInteractionModelGroup = "CleanWaterSource";
+	returnedItems[] =
+	{
+		{1, "Exile_Item_PlasticBottleFreshWater"}
+	};
+	components[] = 
+	{
+		{1, "Exile_Item_PlasticBottleEmpty"}
+	};	
+	category = "Drinks";	
+};

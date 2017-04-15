@@ -4,3 +4,29 @@
 *******************************************************       FÜR DIE CRAFTINGKATEGORIE SECURITY		*******************************************************
 ***************************************************************************************************************************************************************
 **************************************************************************************************************************************************************/
+
+/**********************************    KAMERA    **********************************/
+class Exile_Item_BaseCameraKit: Exile_AbstractCraftingRecipe
+{
+    name = "Craft Security Camera";
+    pictureItem = "Exile_Item_BaseCameraKit";
+    requiredInteractionModelGroup = "WorkBench";	
+    returnedItems[] =
+    {
+        {1, "Exile_Item_BaseCameraKit"}
+    };
+	tools[] =
+	{
+		"Exile_Item_Foolbox",
+        "Exile_Item_Screwdriver"		
+	};	
+    components[] =
+    {
+        {1, "Exile_Item_ExtensionCord"},
+        {1, "Exile_Item_MetalPole"},
+        {6, "Exile_Item_MetalScrews"},
+        {2, "Exile_Item_JunkMetal"},
+        {2, "Exile_Item_ZipTie"}	
+	};	
+	category = "Security";
+};

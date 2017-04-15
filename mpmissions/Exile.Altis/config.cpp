@@ -71,25 +71,23 @@ class Exile_AbstractCraftingRecipe
 class CfgCraftingRecipes
 {
 
-#include "CfgCraftingRecipes.hpp"
-
 /*************************************************************************************
 ******************    ALLE CRAFTING REZEPTE IN DEREN KATEGORIEN		******************
 ********************	IDEE UND ERSTELLT VON DER HOPE-NATION	  ********************
 *************************************************************************************/
 
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Components.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Components_Recycle.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Components_Upgrade.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Drinks.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Equipment.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Explosive.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__FirstAid.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Food.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Hacking_Tools.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Hardware.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Hardware_Recycle.hpp"
-//#include "custom\All_Crafting_Recipes\Crafting_Category__Security.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Components.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Components_Recycle.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Components_Upgrade.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Drinks.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Equipment.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Explosive.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__FirstAid.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Food.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Hacking_Tools.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Hardware.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Hardware_Recycle.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__Security.hpp"
 
 };
 class CfgExileArsenal
