@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Project name="Hope_Nation">
+	<Package name="Statusbar">
+		<Container name="Testtext">
+			<Key ID="STR_Hope_Nation_TESTTEXT">
+				<Original></Original>
+				<German></German>
+				<English></English>
+			</Key>
+		</Container>
+	</Package>
+</Project>
