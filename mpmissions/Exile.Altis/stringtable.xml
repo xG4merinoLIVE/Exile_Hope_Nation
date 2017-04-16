@@ -1,11 +1,23 @@
+//AKTUELL NICHT IN FUNKTION
+
 <?xml version="1.0" encoding="utf-8" ?>
-<Project name="Hope_Nation">
-	<Package name="Statusbar">
-		<Container name="Testtext">
-			<Key ID="STR_Hope_Nation_TESTTEXT">
-				<Original></Original>
-				<German></German>
-				<English></English>
+<Project name="Exile">
+	<Package name="Crafting">
+		<Container name="Rezepte">
+			<Key ID="STR_HOPE_NATION_CRAFTCATSECURITY">
+				<Original>Security</Original>
+				<German>Sicherheit</German>
+				<English>Security</English>
+			</Key>
+			<Key ID="STR_HOPE_NATION_CRAFTKAMERA">
+				<Original>Craft Security Camera</Original>
+				<German>Kamera Herstellen</German>
+				<English>Craft Security Camera</English>
+			</Key>
+			<Key ID="STR_HOPE_NATION_CRAFTLAPTOP">
+				<Original>Craft Laptop</Original>
+				<German>Laptop Herstellen</German>
+				<English>Craft Laptop</English>
 			</Key>
 		</Container>
 	</Package>

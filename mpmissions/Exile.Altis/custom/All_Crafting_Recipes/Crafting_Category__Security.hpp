@@ -30,3 +30,32 @@ class Exile_Item_BaseCameraKit: Exile_AbstractCraftingRecipe
 	};	
 	category = "Security";
 };
+
+/**********************************    LAPTOP    **********************************/
+class CraftLaptop: Exile_AbstractCraftingRecipe
+{
+	name = "Craft Laptop";
+	pictureItem = "Exile_Item_Laptop";
+    requiredInteractionModelGroup = "WorkBench";	
+	returnedItems[] =
+	{
+		{1, "Exile_Item_Laptop"}
+
+	};
+	tools[] =
+	{
+		"Exile_Item_Foolbox",
+        "Exile_Item_Screwdriver"		
+	};	
+	components[] =
+	{
+		{2, "Exile_Item_MobilePhone"},
+		{6, "Exile_Item_JunkMetal"},
+		{2, "Exile_Item_MetalBoard"},
+		{1, "Exile_Item_DuctTape"},		
+		{1, "Exile_Item_ExtensionCord"},
+		{2, "Exile_Item_MetalScrews"},		
+		{4, "Exile_Item_LightBulb"}
+	};	
+	category = "Security";
+};
