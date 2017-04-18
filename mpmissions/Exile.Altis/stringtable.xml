@@ -1,8 +1,6 @@
-//AKTUELL NICHT IN FUNKTION
-
 <?xml version="1.0" encoding="utf-8" ?>
-<Project name="Exile">
-	<Package name="Crafting">
+<Project name="Exile Mod">
+	<Package name="Global">
 		<Container name="Rezepte">
 			<Key ID="STR_HOPE_NATION_CRAFTCATSECURITY">
 				<Original>Security</Original>

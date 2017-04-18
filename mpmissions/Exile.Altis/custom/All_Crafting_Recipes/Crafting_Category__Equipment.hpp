@@ -5,6 +5,25 @@
 ***************************************************************************************************************************************************************
 **************************************************************************************************************************************************************/
 
+/**********************************    AXT    **********************************/
+class Exile_Melee_Axe: Exile_AbstractCraftingRecipe
+{
+	name = "Craft Axe";
+	pictureItem = "Exile_Melee_Axe";
+	requiresFire = 1;
+	requiredInteractionModelGroup = "WorkBench";
+	returnedItems[] =
+	{
+		{1, "Exile_Melee_Axe"}
+	};
+     components[] =
+	{
+		{2, "Exile_Item_JunkMetal"},
+		{1, "Exile_Item_WoodLog"}
+	};
+		category = "Equipment";
+};
+
 /**********************************    CAN OPENER    **********************************/
 class crafted_canOpener: Exile_AbstractCraftingRecipe
 {

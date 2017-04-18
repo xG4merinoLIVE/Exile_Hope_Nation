@@ -80,6 +80,7 @@ class CfgCraftingRecipes
 #include "custom\All_Crafting_Recipes\Crafting_Category__Components_Recycle.hpp"
 #include "custom\All_Crafting_Recipes\Crafting_Category__Components_Upgrade.hpp"
 #include "custom\All_Crafting_Recipes\Crafting_Category__Drinks.hpp"
+#include "custom\All_Crafting_Recipes\Crafting_Category__EBM.hpp"
 #include "custom\All_Crafting_Recipes\Crafting_Category__Equipment.hpp"
 #include "custom\All_Crafting_Recipes\Crafting_Category__Explosive.hpp"
 #include "custom\All_Crafting_Recipes\Crafting_Category__FirstAid.hpp"
