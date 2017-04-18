@@ -1,4 +1,4 @@
-![ArmA 3 1.68](https://img.shields.io/badge/Arma%203-1.68-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-C72651.svg)
+![ArmA 3 1.68](https://img.shields.io/badge/Arma%203-1.68-blue.svg) ![Exile 1.0.2 Kohlrabi](https://img.shields.io/badge/Exile-1.0.2%20Kohlrabi-C72651.svg) ![STATUS Testserver](https://img.shields.io/badge/STATUS-Testserver-C72651.svg)
 <br>
 # Infos über der Hope-Nation
 Testserver der Hope-Nation von <b>xG4merinoLIVE</b>
